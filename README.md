@@ -14,3 +14,6 @@ See [docs](https://aureooms.github.io/js-integer-sequences/index.html).
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-integer-sequences.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-integer-sequences)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-integer-sequences.svg?style=flat)](https://github.com/aureooms/js-integer-sequences/issues)
 [![Documentation](https://aureooms.github.io/js-integer-sequences/badge.svg)](https://aureooms.github.io/js-integer-sequences/source.html)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureooms/js-integer-sequences.svg)](https://greenkeeper.io/)
