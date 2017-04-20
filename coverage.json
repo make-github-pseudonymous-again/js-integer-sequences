@@ -1,0 +1,27 @@
+{
+  "coverage": "0%",
+  "expectCount": 8,
+  "actualCount": 0,
+  "files": {
+    "src/Fibonacci.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        6
+      ]
+    },
+    "src/IntegerSequence.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        26,
+        6,
+        8,
+        12,
+        18
+      ]
+    }
+  }
+}
