@@ -9,7 +9,7 @@ Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 
 ```js
 import { list , map } from '@aureooms/js-itertools' ;
-import * as integer from '@aureooms/js-number' ;
+import * as integer from '@aureooms/js-integer' ;
 
 let F = new Fibonacci( integer ) ;
 list( map ( integer.stringify , F.range( 10 ) ) ) ; // 0 1 1 2 3 5 8 13 21 34
