@@ -28,16 +28,16 @@
     "@aureooms/js-itertools": "^3.3.0"
   },
   "devDependencies": {
-    "@aureooms/js-integer": "^3.0.0",
-    "@aureooms/js-number": "^3.0.0",
-    "ava": "^0.19.1",
-    "babel-cli": "^6.24.1",
-    "babel-polyfill": "^6.23.0",
-    "babel-preset-latest": "^6.24.1",
-    "codeclimate-test-reporter": "^0.4.1",
-    "coveralls": "^2.13.1",
-    "esdoc": "^0.5.2",
-    "nyc": "^10.3.2"
+    "@aureooms/js-integer": "3.0.0",
+    "@aureooms/js-number": "3.1.0",
+    "ava": "0.19.1",
+    "babel-cli": "6.26.0",
+    "babel-polyfill": "6.26.0",
+    "babel-preset-latest": "6.24.1",
+    "codeclimate-test-reporter": "0.4.1",
+    "coveralls": "2.13.3",
+    "esdoc": "0.5.2",
+    "nyc": "10.3.2"
   },
   "homepage": "https://aureooms.github.io/js-integer-sequences",
   "keywords": [
