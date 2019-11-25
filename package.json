@@ -23,7 +23,7 @@
     "url": "https://github.com/aureooms/js-integer-sequences/issues"
   },
   "dependencies": {
-    "@aureooms/js-error": "^3.0.0",
+    "@aureooms/js-error": "^4.0.0",
     "@aureooms/js-fibonacci": "^3.1.0",
     "@aureooms/js-itertools": "^3.3.0"
   },
