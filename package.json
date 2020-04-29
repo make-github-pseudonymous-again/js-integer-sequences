@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@aureooms/js-error": "^4.0.0",
-    "@aureooms/js-fibonacci": "^3.1.0",
+    "@aureooms/js-fibonacci": "^4.0.0",
     "@aureooms/js-itertools": "^3.4.0"
   },
   "devDependencies": {
