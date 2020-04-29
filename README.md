@@ -15,16 +15,20 @@ let F = new Fibonacci( integer ) ;
 list( map ( integer.stringify , F.range( 10 ) ) ) ; // 0 1 1 2 3 5 8 13 21 34
 ```
 
-[![License](https://img.shields.io/github/license/aureooms/js-integer-sequences.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-integer-sequences/master/LICENSE)
-[![NPM version](https://img.shields.io/npm/v/@aureooms/js-integer-sequences.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-integer-sequences)
-[![Build status](https://img.shields.io/travis/aureooms/js-integer-sequences.svg?style=flat)](https://travis-ci.org/aureooms/js-integer-sequences)
-[![Coverage status](https://img.shields.io/coveralls/aureooms/js-integer-sequences.svg?style=flat)](https://coveralls.io/r/aureooms/js-integer-sequences)
-[![Dependencies status](https://img.shields.io/david/aureooms/js-integer-sequences.svg?style=flat)](https://david-dm.org/aureooms/js-integer-sequences#info=dependencies)
-[![Dev dependencies status](https://img.shields.io/david/dev/aureooms/js-integer-sequences.svg?style=flat)](https://david-dm.org/aureooms/js-integer-sequences#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-integer-sequences.svg?style=flat)](https://codeclimate.com/github/aureooms/js-integer-sequences)
-[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-integer-sequences.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-integer-sequences)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-integer-sequences.svg?style=flat)](https://github.com/aureooms/js-integer-sequences/issues)
+[![License](https://img.shields.io/github/license/aureooms/js-integer-sequences.svg)](https://raw.githubusercontent.com/aureooms/js-integer-sequences/master/LICENSE)
+[![Version](https://img.shields.io/npm/v/@aureooms/js-integer-sequences.svg)](https://www.npmjs.org/package/@aureooms/js-integer-sequences)
+[![Build](https://img.shields.io/travis/aureooms/js-integer-sequences/master.svg)](https://travis-ci.org/aureooms/js-integer-sequences/branches)
+[![Dependencies](https://img.shields.io/david/aureooms/js-integer-sequences.svg)](https://david-dm.org/aureooms/js-integer-sequences)
+[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-integer-sequences.svg)](https://david-dm.org/aureooms/js-integer-sequences?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-integer-sequences.svg)](https://github.com/aureooms/js-integer-sequences/issues)
+[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-integer-sequences.svg)](https://www.npmjs.org/package/@aureooms/js-integer-sequences)
+
+[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-integer-sequences.svg)](https://codeclimate.com/github/aureooms/js-integer-sequences/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-integer-sequences.svg)](https://codeclimate.com/github/aureooms/js-integer-sequences/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-integer-sequences/master.svg)](https://codecov.io/gh/aureooms/js-integer-sequences)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-integer-sequences.svg)](https://codeclimate.com/github/aureooms/js-integer-sequences/trends/technical_debt)
 [![Documentation](https://aureooms.github.io/js-integer-sequences/badge.svg)](https://aureooms.github.io/js-integer-sequences/source.html)
+[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-integer-sequences)](https://bundlephobia.com/result?p=@aureooms/js-integer-sequences)
 
 ## Children
 
