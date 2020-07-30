@@ -19,18 +19,18 @@
   resolved "https://registry.yarnpkg.com/@aureooms/js-fibonacci/-/js-fibonacci-4.0.0.tgz#abdaa44d176657070bafc2538587e6344a8f42fb"
   integrity sha512-RNg4bf4NpJ0UOAEXXHeFziw/Mi+skBIR/G1RTS8dqowNZeXRby1vAQWR9qAJWfE8fufdKYMFUsNAHivQ2gbM3A==
 
-"@aureooms/js-integer-big-endian@^9.0.2":
-  version "9.0.2"
-  resolved "https://registry.yarnpkg.com/@aureooms/js-integer-big-endian/-/js-integer-big-endian-9.0.2.tgz#4747d9d1586d66d11ec21c2cd3d81a68680e0717"
-  integrity sha512-9rlrO1UaJ6X5CxK1YxIf74u2XWbh5TX0XA9lx5RIu8HgCrhQDO3PKhZl6oOSSsY2/s8SWd4/RAd4IigziPvYng==
+"@aureooms/js-integer-big-endian@^10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@aureooms/js-integer-big-endian/-/js-integer-big-endian-10.0.0.tgz#e3e46af63e7b900822abba3f216e64c812aa6532"
+  integrity sha512-Fa8v0V40FDZ09j/UP+c0x+Xd0Un3zuBc1K0T8EIZI4mAXFq7wDcd2mRCmR/djcKCcfPIR1Wgm0ucltNR6snm1g==
 
-"@aureooms/js-integer@8.0.0":
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/@aureooms/js-integer/-/js-integer-8.0.0.tgz#0bd33dded6fcc858f0c748df13bdd2c3913a5b4d"
-  integrity sha512-cuLG3K6bbE3CrMNW1OJiEq+rWWRMb9Dukc/DW1XftnuXkQSek5R053k952ceA8kF1IgDrxgG8DkZNZ7K/Se14Q==
+"@aureooms/js-integer@9.0.0":
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/@aureooms/js-integer/-/js-integer-9.0.0.tgz#6680ab814ec124e4a33895852c57dbb23e206241"
+  integrity sha512-YxRhWYZk+vjPnam6sipgEvMFlfdr/9RRvQxKYkfxg852NdlDKB8c5NEmOYson4bqiu+FUJU+S5vkvxCfT5wn2A==
   dependencies:
     "@aureooms/js-error" "^4.0.0"
-    "@aureooms/js-integer-big-endian" "^9.0.2"
+    "@aureooms/js-integer-big-endian" "^10.0.0"
 
 "@aureooms/js-itertools@^4.0.0":
   version "4.0.0"
@@ -4682,10 +4682,10 @@ normalize-url@^4.1.0:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
   integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
 
-np@6.2.5:
-  version "6.2.5"
-  resolved "https://registry.yarnpkg.com/np/-/np-6.2.5.tgz#63eb54905415f04114bfd883cb1f99ee7012cfab"
-  integrity sha512-oDGzbDFPae7O2fxitPAIHFFu7nfyhp//NZ4fs41IYq/k24IzRWSOFhnVjEBKjZSI3MsaH7gcW3dNy868S8KgyQ==
+np@6.3.2:
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/np/-/np-6.3.2.tgz#1d7793274ee4cd466af376331a1f3154bf02f6f1"
+  integrity sha512-8+w+cHLGHM01BfTvIqw2Q61geLPA7HEOeN54jJPQrH/cXHaUWdugKSNV6JiXhpbFKg+fj3JWNKq0d7a/gU0WeQ==
   dependencies:
     "@samverschueren/stream-to-observable" "^0.3.0"
     any-observable "^0.5.0"
