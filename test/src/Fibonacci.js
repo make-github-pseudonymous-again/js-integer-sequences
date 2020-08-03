@@ -8,9 +8,10 @@ import { Fibonacci } from '../../src' ;
 
 const URL = 'https://raw.githubusercontent.com/aureooms/integer-sequence-fibonacci/master/sequence/' ;
 
-const N = 78 ; // biggest fibonacci number smaller than 2^53
+const N = 100 ;
+const MAX_NUMBER = 78 ; // biggest fibonacci number smaller than 2^53
 
-function macro ( t , [ name , impl ] , i ) {
+function macro ( t , { name , impl } , i ) {
 
 	const F = new Fibonacci( impl ) ;
 
@@ -32,10 +33,22 @@ function macro ( t , [ name , impl ] , i ) {
 
 }
 
-macro.title = ( _ , [ name , impl ] , i ) => `Fibonacci (${name}, ${i})` ;
+macro.title = ( _ , { name , impl } , i ) => `Fibonacci (${name}, ${i})` ;
 
-for ( const model of [ [ '@aureooms/js-number' , number ] , [ '@aureooms/js-integer' , integer ] ] )
+const models = [
+	{
+		name: '@aureooms/js-number' ,
+		impl: number ,
+		limit: MAX_NUMBER ,
+	} ,
+	{
+		name: '@aureooms/js-integer' ,
+		impl: integer ,
+	} ,
+] ;
+
+for ( const model of models )
 for ( const i of range( 0 , N + 1 ) )
-test.cb( macro , model , i ) ;
+	if ( !model.limit || i <= model.limit ) test.cb( macro , model , i ) ;
 
 // t.deepEqual( list( map ( integer.stringify , F.range( n ) ) ) , a ) ;
