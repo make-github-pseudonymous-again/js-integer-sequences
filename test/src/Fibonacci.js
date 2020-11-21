@@ -6,7 +6,7 @@ import * as integer from '@aureooms/js-integer' ;
 import { list , map , range } from '@aureooms/js-itertools' ;
 import { Fibonacci } from '../../src' ;
 
-const URL = 'https://raw.githubusercontent.com/aureooms/integer-sequence-fibonacci/master/sequence/' ;
+const URL = 'https://raw.githubusercontent.com/aureooms/integer-sequence-fibonacci/main/sequence/' ;
 
 const N = 100 ;
 const MAX_NUMBER = 78 ; // biggest fibonacci number smaller than 2^53
