@@ -1,10 +1,10 @@
-[@aureooms/js-integer-sequences](https://aureooms.github.io/js-integer-sequences)
+[@aureooms/js-integer-sequences](https://make-github-pseudonymous-again.github.io/js-integer-sequences)
 ==
 
 <img src="http://www.polprimos.com/imagenespub/poldiv13.jpg" width="864">
 
 Integer sequences for JavaScript.
-See [docs](https://aureooms.github.io/js-integer-sequences/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-integer-sequences/index.html).
 Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 
 ```js
@@ -27,7 +27,7 @@ list( map ( integer.stringify , F.range( 10 ) ) ) ; // 0 1 1 2 3 5 8 13 21 34
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-integer-sequences.svg)](https://codeclimate.com/github/aureooms/js-integer-sequences/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-integer-sequences/main.svg)](https://codecov.io/gh/aureooms/js-integer-sequences)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-integer-sequences.svg)](https://codeclimate.com/github/aureooms/js-integer-sequences/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-integer-sequences/badge.svg)](https://aureooms.github.io/js-integer-sequences/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-integer-sequences/badge.svg)](https://make-github-pseudonymous-again.github.io/js-integer-sequences/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-integer-sequences)](https://bundlephobia.com/result?p=@aureooms/js-integer-sequences)
 
 ## Children
