@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "@aureooms/js-integer": "9.0.2",
-    "@aureooms/js-number": "3.1.0",
+    "@aureooms/js-number": "4.0.0",
     "@babel/cli": "7.13.10",
     "@babel/core": "7.13.10",
     "@babel/polyfill": "7.12.1",
